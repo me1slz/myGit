@@ -1,0 +1,6 @@
+- Create repo
+- Add file
+- Check out Git history
+- Hands-on exercise
+- Pulling from remote source
+ - Minor note about differences between Git and other Git software
